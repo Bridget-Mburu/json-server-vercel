@@ -1,95 +1,88 @@
 {
-  "flowers": [
+  "transactions": [
     {
-      "id": "1",
-      "name": "Calla lily",
-      "image": "https://www.bhg.com/thmb/Bw49DwP2S0BNy2nOvp-NSSaoIMA=/1858x0/filters:no_upscale():strip_icc()/two-Calla-lilies-b8c6af449bb14de7a83a86e7d7c8a3d1.jpg",
-      "likes": "12"
+      "id": 1,
+      "date": "2019-12-01",
+      "description": "Paycheck from Bob's Burgers",
+      "category": "Income",
+      "amount": 1000
     },
     {
-      "id": "2",
-      "name": "Jasmine",
-      "image": "https://5.imimg.com/data5/JC/MD/KQ/SELLER-73537456/jasmine-flower.jpg",
-      "likes": "8"
+      "id": 2,
+      "date": "2019-12-01",
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "Food",
+      "amount": -10.55
     },
     {
-      "id": "3",
-      "name": "Lavender",
-      "image": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQFAhJDI8lB8kg4xnzrixRvqZMenoFLqsCa2ZIXfPX5C6O6HGmth--LSaNSx5On7G2U",
-      "likes": "14"
+      "id": 3,
+      "date": "2019-12-02",
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "Food",
+      "amount": -10.55
     },
     {
-      "id": "4",
-      "name": "Marigold",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tagetes_erecta_chendumalli_chedi.jpg/1200px-Tagetes_erecta_chendumalli_chedi.jpg",
-      "likes": "16"
+      "id": 4,
+      "date": "2019-12-04",
+      "description": "Sunglasses, Urban Outfitters",
+      "category": "Fashion",
+      "amount": -24.99
     },
     {
-      "id": "5",
-      "name": "tulip",
-      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOrMNz3BHenLXvLrJeh1UzWDK1ZtaXrwG84T65A2LrA3JlI_cU",
-      "likes": "8"
+      "id": 5,
+      "date": "2019-12-06",
+      "description": "Venmo, Alice Pays you for Burrito",
+      "category": "Food",
+      "amount": 8.75
     },
     {
-      "id": "6",
-      "name": "Azelia",
-      "image": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQmGS0EPHMoZi8xyNGOv0aQYuYzF3uLSxjVlkTK1kS5MKNWTK1Kn59Uu7M19SArxeFF",
-      "likes": "18"
-    },
-
-    {
-      "id": "7",
-      "name": "iris",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Iris_germanica_%28Purple_bearded_Iris%29%2C_Wakehurst_Place%2C_UK_-_Diliff.jpg",
-      "likes": "5"
+      "id": 6,
+      "date": "2019-12-06",
+      "description": "Chipotle",
+      "category": "Food",
+      "amount": -17.59
     },
     {
-      "id": "8",
-      "name": "Sunflower",
-      "image": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRWQHy63wKx6JoRBBoPO8dZyQbMTwgvIHEcso__k6rORz2E7UkX5L8vhVdR4470uCeC",
-      "likes": ""
+      "id": 7,
+      "date": "2019-12-07",
+      "description": "Birthday Check from Grandma",
+      "category": "Gift",
+      "amount": 50
     },
     {
-      "id": "7",
-      "name": " white Daisy",
-      "image": "https://www.thespruce.com/thmb/OdKoopYOFYS4Pj5ObzQQAEQf0I8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/daisy-types-for-gardens-1316051-04-e0f4e84f081d452885752e84bc7886ed.jpg",
-      "likes": "13"
+      "id": 8,
+      "date": "2019-12-09",
+      "description": "Lyft Ride",
+      "category": "Transportation",
+      "amount": -13.25
     },
     {
-      "id": "7",
-      "name": " Assorted Daisy",
-      "image": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSqHfICK43wxLXs8t5v_R_4qKfi4cAZNJm70JTe7hV_-ynvu5zCBYv4NJOyHMNYc7X3",
-      "likes": "13"
+      "id": 9,
+      "date": "2019-12-11",
+      "description": "Paycheck from Bob's Burgers",
+      "category": "Income",
+      "amount": 1000
     },
     {
-      "id": "4",
-      "name": "White Roses",
-      "image": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRoZC_JQAsW5rB_YteF6L0u0o94iMUKzkHxa8ibXSoB79pY8mNVv5BnbKehy7mZTEBS",
-      "likes": "21"
+      "id": 10,
+      "date": "2019-12-16",
+      "description": "Tickets, Flatiron Multiplex Cinemas",
+      "category": "Entertainment",
+      "amount": -24
     },
     {
-      "id": "4",
-      "name": "Red Roses",
-      "image": "https://plantura.garden/uk/wp-content/uploads/sites/2/2022/06/red-rose-bush-1024x684.jpg?x63657",
-      "likes": "21"
+      "id": 11,
+      "date": "2019-12-16",
+      "description": "MTA Vending Machine: MetroCard",
+      "category": "Transportation",
+      "amount": -116.39
     },
     {
-      "id": "4",
-      "name": "Pink Roses",
-      "image": "https://www.epicgardening.com/wp-content/uploads/2023/09/pink-roses-1.jpeg",
-      "likes": "21"
-    },
-    {
-      "id": "4",
-      "name": "Yellow Roses",
-      "image": "https://pune.nurserylive.com/cdn/shop/products/nurserylive-pune-rose-yellow-plant-821801_512x512.jpg?v=1697488481",
-      "likes": "21"
-    },
-    {
-      "id": "4",
-      "name": "Assorted Roses",
-      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/plant-seed/b/w/4/50-vmr-123-multicolored-rose-flower-seeds-50-seeds-vibex-original-imaggkjh2sbvgv8p.jpeg?q=90&crop=false",
-      "likes": "21"
+      "id": 12,
+      "date": "2019-12-17",
+      "description": "Venmo, Pay Roommate for Rent",
+      "category": "Housing",
+      "amount": -975
     }
   ]
 }
